@@ -1,0 +1,11 @@
+#!/bin/bash
+
+# Script: A configure_package example tool
+# 
+# Version: 0.1
+#
+# Author: author@example.com
+
+# source `which configure_package.bash`
+
+echo This is an example script
