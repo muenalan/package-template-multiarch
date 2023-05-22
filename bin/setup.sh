@@ -4,7 +4,7 @@ use Env qw($CONFIGURE_PKGNAME);
 
 die 'Need env $CONFIGURE_PKGNAME' unless $CONFIGURE_PKGNAME;
 
-my @files = qx{find . -name configure_package | grep -v packages};
+my @files = qx{find . -name 'configure_package*' | grep -v packages};
 
 for( @files )
    {

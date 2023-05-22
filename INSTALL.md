@@ -16,6 +16,6 @@ A software package template, tailored on configureplus and gnu-make.
 # Documentation
 See {configureplus}[https://github.com/muenalan/configureplus.git] for full documentation.
 
-# AUTHOR
+# Author
 
-    Murat Uenalan <murat.uenalan@gmail.com>
+Murat Uenalan <murat.uenalan@gmail.com>
