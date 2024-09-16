@@ -4,5 +4,5 @@
 # 
 # Version: 0.1
 #
-# Author: author@example.com
+# Author: <V "defaults/author"> (<V "defaults/email">)
 

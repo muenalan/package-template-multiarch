@@ -4,8 +4,8 @@
 # 
 # Version: 0.1
 #
-# Author: author@example.com
-
+# Author: <V "defaults/author"> (<V "defaults/email">)
+#
 # source `which configure_package.bash`
 
 echo This is an example script
