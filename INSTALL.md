@@ -14,7 +14,8 @@ A software package template, tailored on configureplus and gnu-make.
     done
 
 # Documentation
-See {configureplus}[https://github.com/muenalan/configureplus.git] for full documentation.
+See {configureplus}[https://github.com/muenalan/configureplus.git] for detailed documentation.
+See {package-template-multiarch}[https://github.com/muenalan/package-template-multiarch.git] for full documentation.
 
 # Author
 
