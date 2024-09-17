@@ -1,5 +1,5 @@
 # package-template-multiarch
-Minimal package (multiarch) template for use with [configureplus](https://muenalan/configureplus).
+Minimal package (multiarch) template for use with [configureplus](https://github.com/muenalan/configureplus).
 
 # Description
 A software package template, tailored on configureplus and gnu-make.
